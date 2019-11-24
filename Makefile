@@ -1,1 +1,2 @@
-chmod +x code
+main:
+       chmod +x code
